@@ -14,7 +14,7 @@ int main()
         col = 1;
         while (col <= n)
         {
-            cout << "**";
+            cout << "*";
             col = col + 1;
         }
         cout << endl;
