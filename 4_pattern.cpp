@@ -15,7 +15,7 @@ int main()
         while (col <= n)
         {
             cout << col;
-            col = col + 2;
+            col = col + 1;
         }
         cout << endl;
         row = row + 2;
