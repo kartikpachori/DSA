@@ -18,6 +18,6 @@ int main()
             col = col + 1;
         }
         cout << endl;
-        row = row + 2;
+        row = row + 1;
     }
 }
